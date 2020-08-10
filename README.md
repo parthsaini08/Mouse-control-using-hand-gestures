@@ -18,3 +18,4 @@ The movements you can perform are as follows:
 
 
 Also you can vary the mouse sensitivity and the speed of scrolling the mouse using the trackbar given in the window.
+Press escape 'esc' to stop the program.
