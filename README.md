@@ -11,7 +11,7 @@ I have used pyautogui for the operations performed. So the steps you need to fol
 4. Make sure you don't have any moving objects in the background and good lighting conditions.
 5. Press 's' to capture the background and 'r' to reset the background.
 The movements you can perform are as follows:
- Two fingers - Move the mouse on the screen
- Three fingers - Scroll up and down on the screen
- Four fingers - Click on the screen where mouse is present
- Five fingers - Right click on the screen where mouse is present
+- Two fingers - Move the mouse on the screen
+- Three fingers - Scroll up and down on the screen
+- Four fingers - Click on the screen where mouse is present
+- Five fingers - Right click on the screen where mouse is present
