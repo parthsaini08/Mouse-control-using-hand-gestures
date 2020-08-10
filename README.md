@@ -15,3 +15,6 @@ The movements you can perform are as follows:
 - Three fingers - Scroll up and down on the screen
 - Four fingers - Click on the screen where mouse is present
 - Five fingers - Right click on the screen where mouse is present
+
+
+Also you can vary the mouse sensitivity and the speed of scrolling the mouse using the trackbar given in the window.
